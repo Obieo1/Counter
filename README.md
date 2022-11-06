@@ -1,3 +1,5 @@
+### Run the deployment in a http://localhost:3000
+#### For the Not found page deployment on https://obieo1.github.io/Counter/
 # Documentation
 
 A counter that Increase and decrease of numbers, its also reset it to its original counter.
